@@ -1,8 +1,8 @@
 # Responsible-AI
 
-This repository contains my work done COMP0195 at UCL. 
+This repository contains my work done for COMP0195 at UCL. 
 
-You should find there:
+You should find here:
 1. Analyse of the performance of multiple ML models i.e., interpretable-by-design approach and a black-box technique. 
 2. Interpretation of the models.
 3. Error Analysis 
